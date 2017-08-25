@@ -1,0 +1,8 @@
+环境：Win7+Matlab2017a
+
+步骤：
+1.运行ExtractHog.m，打开文件，Data->Train->DataPst  Data->Train->DataNgt,提取特征。
+2.运行Mdl_cvTrain.m,进行交叉验证训练。
+3.运行ClassificationPerf.m 评价分类器。
+4.运行Mdl_finalTrain.m训练最终的分类器。
+5.运行findObject.m，打开Data->FIND->L_zhao，或者R_all,分别得到nmsfindResult_L_zhao和nmsfindResult_R_all两文件，里面保存着检测结果
