@@ -1,6 +1,6 @@
 # detect-nerve
 Medical image analysis, to find a nerve tissue and get its location in an image using Hog+SVM method.
-Training data and testing data is available on [nerve-detect-data](http://pan.baidu.com/s/1ge9Ktz1) ,welcome to download.
+Training data and testing data is available on [nerve-detect-data](http://pan.baidu.com/s/1ge5HFv9) ,welcome to download.
 
 My English is so poor, so next I will write in Chinese.(^o^)!
 # introduction
